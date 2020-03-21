@@ -1,48 +1,24 @@
 [
   {
     "SKU#": 419776,
-    "id": 1,
     "title": "WOMEN ULTRA LIGHT DOWN JACKET",
     "price": 69.9,
-    "detail": "Ultra Light Down: now even comfier.
-
-Durable water-repellent coating.
-Pocketable design can be stored in the carrying pouch.
-In response to customer feedback, we've updated the chest width for greater comfort.
-Soft stretch tape added inside the sleeves keep them in place when rolled up.
-Seam is aligned with stitches behind waist to maintain a streamlined silhouette.
-Contoured round collar with new stitch-free tag.
-Double elastic on the hem for a snug fit.
-More relaxed fit for easy movement.
-Matte finish looks great whether you're playing sports or just hanging out.
-Carrying pouch attaches to inside loop on the left.",
-
-    "materials": "[03 Gray] Shell: 65% Nylon, 35% Polyester/ Filling: Down(minimum90% Down) Lining: 100% Polyester [Other Color] Shell: 100% Nylon/ Filling: Down (Minimum 90% Down) Lining: 100% Nylon
-Hand wash cold
-Imported",
-    "completed": false
+    "detail": "Ultra Light Down: now even comfier."
   },
   
   {
     "SKU#": 419779,
-    "id": 1,
     "title": "WOMEN ULTRA LIGHT DOWN COMPACT JACKET",
     "price": 59.9,
-    "detail": "Easy-to-layer two-way jacket. Updated based on customer feedback.
-
-Newly updated with a lining that reduces static.
-Durable water-repellent coating.
-Pocketable design can be stored in the carrying pouch.
-Easy-to-coordinate matte finish.
-Soft stretch tape added inside the sleeves to keep them in place when rolled up.
-Collar can also be worn as a V neck under a coat.
-Improved V-neck design.
-Carrying pouch attaches to inside loop on the left.",
-
-    "materials": "[09Black] Shell: 100% Nylon/ Filling: Down (Minimum 90% Down) Lining: 100% Nylon [07Gray] Shell: 65% Nylon, 35% Polyester/ Filling: Down (Minimum 90% Down) Lining: 100% Nylon
-Hand wash cold
-Imported",
-    "completed": false
+    "detail": "Easy-to-layer two-way jacket. Updated based on customer feedback.",
+ 
+  },
+  
+    {
+    "SKU#": 419778,
+    "title": "WOMEN ULTRA LIGHT DOWN COMPACT VEST",
+    "price": 39.9,
+    "detail": "Versatile two-way neck design. Updated based on customer feedback."
   }
   
   ]
