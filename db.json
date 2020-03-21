@@ -6,7 +6,7 @@
     "price": 69.9,
     "discount": 0.15,
     "onsale": true,
-    "detail": "Ultra Light Down: now even comfier.",
+    "detail": "Ultra Light Down: now even comfier."
   },
   
   {
@@ -85,6 +85,7 @@
     "onsale": false,
     "detail": "Blocks out wind and rain but allows for breathability. Keeps you dry and comfortable anywhere, anytime."
   },
+        
   {
     "sku": 424883,
     "title": "WOMEN ULTRA STRETCH CROPPED LEGGINGS PANTS",
