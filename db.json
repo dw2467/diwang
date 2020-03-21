@@ -6,7 +6,9 @@
     "price": 69.9,
     "discount": 0.15,
     "onsale": true,
-    "detail": "Ultra Light Down: now even comfier."
+    "detail": "Ultra Light Down: now even comfier.",
+    "materials":"[Gray] Shell: 65% Nylon, 35% Polyester/ Filling: Down(minimum90% Down) Lining: 100% Polyesterrn[Other Color] Shell: 100% Nylon/ Filling: Down (Minimum 90% Down) Lining: 100% Nylon"
+
   },
   
   {
@@ -15,7 +17,8 @@
     "price": 59.9,
     "discount": 0,
     "onsale": false,
-    "detail": "Easy-to-layer two-way jacket. Updated based on customer feedback."
+    "detail": "Easy-to-layer two-way jacket. Updated based on customer feedback.",
+    "materials":"[Black] Shell: 100% Nylon/ Filling: Down (Minimum 90% Down) Lining: 100% Nylonrn[Other Color] Shell: 65% Nylon, 35% Polyester/ Filling: Down (Minimum 90% Down) Lining: 100% Nylon"
 
   },
   
@@ -25,7 +28,8 @@
     "price": 39.9,
     "discount": 0,
     "onsale": false,
-    "detail": "Versatile two-way neck design. Updated based on customer feedback."
+    "detail": "Versatile two-way neck design. Updated based on customer feedback.",
+    "materials":"[Gray] Shell: 65% Nylon, 35% Polyester/ Filling: Down (Minimum 90% Down) Lining: 100% Nylonrn[Other Colors] Shell: 100% Nylon/ Filling: Down (Minimum 90% Down) Lining: 100% Nylon"
   },
       
         
@@ -35,7 +39,8 @@
     "price": 79.9,
     "discount": 0.12,
     "onsale": true,
-    "detail": "Versatile two-way neck design. Updated based on customer feedback."
+    "detail": "Versatile two-way neck design. Updated based on customer feedback.",
+    "materials":"Shell: 100% Nylon/ Filling: Down (Minimum 90% Down) Lining: 100% Nylon"
   },
   
   {
@@ -44,7 +49,8 @@
     "price": 99.9,
     "discount": 0,
     "onsale": false,
-    "detail": "Warmth whenever and wherever you need it. Our ultra light down coat."
+    "detail": "Warmth whenever and wherever you need it. Our ultra light down coat.",
+    "materials":"Shell: 100% Nylon/ Filling: Down (Minimum 90% Down) Lining: 100% Nylon"
 
   },
   
@@ -54,7 +60,8 @@
     "price": 79.9,
     "discount": 0,
     "onsale": false,
-    "detail": "Breathable BLOCKTECH fabric keeps the elements out."
+    "detail": "Breathable BLOCKTECH fabric keeps the elements out.",
+    "materials":"100% Polyester"
   },
         
         
@@ -64,7 +71,8 @@
     "price": 79.9,
     "discount": 0,
     "onsale": false,
-    "detail": "Blocks out wind and rain while wicking sweat to keep you feeling fresh."
+    "detail": "Blocks out wind and rain while wicking sweat to keep you feeling fresh.",
+    "materials":"Body: 100% Nylon/ Mesh: 100% Polyester"
   },
   
   {
@@ -73,7 +81,8 @@
     "price": 39.9,
     "discount": 0,
     "onsale": false,
-    "detail": "A jacket made of soft material that you can comfortably throw on."
+    "detail": "A jacket made of soft material that you can comfortably throw on.",
+    "materials":"77% Polyester, 18% Lyocell, 5% Spandex"
 
   },
   
@@ -83,7 +92,8 @@
     "price": 99.9,
     "discount": 0,
     "onsale": false,
-    "detail": "Blocks out wind and rain but allows for breathability. Keeps you dry and comfortable anywhere, anytime."
+    "detail": "Blocks out wind and rain but allows for breathability. Keeps you dry and comfortable anywhere, anytime.",
+    "materials":"100% Polyester"
   },
         
   {
@@ -92,7 +102,8 @@
     "price": 29.9,
     "discount": 0,
     "onsale": false,
-    "detail": "Impressive stretch that gives you both comfort and a beautiful silhouette."
+    "detail": "Impressive stretch that gives you both comfort and a beautiful silhouette.",
+    "materials":"100% Cotton"
   },
   
   {
@@ -101,7 +112,8 @@
     "price": 39.9,
     "discount": 0,
     "onsale": false,
-    "detail": "They look and feel fresh. The waist belt is removable so you can enjoy different styles."
+    "detail": "They look and feel fresh. The waist belt is removable so you can enjoy different styles.",
+    "materials":"55% Linen, 45% Rayon"
 
   },
   
@@ -111,7 +123,8 @@
     "price": 29.9,
     "discount": 0,
     "onsale": false,
-    "detail": "Presenting a new cut for the new season: High-waisted, tapered wide-leg jeans for a flattering, fashion-forward look."
+    "detail": "Presenting a new cut for the new season: High-waisted, tapered wide-leg jeans for a flattering, fashion-forward look.",
+    "materials":"100% Cotton"
   }
     ]
 }
