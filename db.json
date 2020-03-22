@@ -7,6 +7,7 @@
     "discount": 0.15,
     "onsale": true,
     "detail": "Ultra Light Down: now even comfier.",
+    "details":"Durable water-repellent coating. Pocketable design can be stored in the carrying pouch. In response to customer feedback, we've updated the chest width for greater comfort. Soft stretch tape added inside the sleeves keep them in place when rolled up.",
     "materials":"[Gray] Shell: 65% Nylon, 35% Polyester/ Filling: Down(minimum90% Down) Lining: 100% Polyester [Other Color] Shell: 100% Nylon/ Filling: Down (Minimum 90% Down) Lining: 100% Nylon"
 
   },
@@ -18,6 +19,7 @@
     "discount": 0,
     "onsale": false,
     "detail": "Easy-to-layer two-way jacket. Updated based on customer feedback.",
+    "details":"Newly updated with a lining that reduces static. Durable water-repellent coating. Pocketable design can be stored in the carrying pouch. Easy-to-coordinate matte finish. Soft stretch tape added inside the sleeves to keep them in place when rolled up.",
     "materials":"[Black] Shell: 100% Nylon/ Filling: Down (Minimum 90% Down) Lining: 100% Nylon [Other Color] Shell: 65% Nylon, 35% Polyester/ Filling: Down (Minimum 90% Down) Lining: 100% Nylon"
 
   },
@@ -29,6 +31,7 @@
     "discount": 0,
     "onsale": false,
     "detail": "Versatile two-way neck design. Updated based on customer feedback.",
+    "details":"Newly updated with a lining that reduces static. Durable water-repellent coating. Pocketable design can be stored in the carrying pouch. Easy-to-coordinate matte finish. Collar can also be worn as a V neck to keep it discreet under coats.",
     "materials":"[Gray] Shell: 65% Nylon, 35% Polyester/ Filling: Down (Minimum 90% Down) Lining: 100% Nylon [Other Colors] Shell: 100% Nylon/ Filling: Down (Minimum 90% Down) Lining: 100% Nylon"
   },
       
@@ -40,6 +43,7 @@
     "discount": 0.12,
     "onsale": true,
     "detail": "Versatile two-way neck design. Updated based on customer feedback.",
+    "details":"Newly updated with a lining that reduces static. Durable water-repellent coating. Pocketable design can be stored in the carrying pouch. Easy-to-coordinate matte finish. Collar can also be worn as a V neck under a coat.",
     "materials":"Shell: 100% Nylon/ Filling: Down (Minimum 90% Down) Lining: 100% Nylon"
   },
   
@@ -50,6 +54,7 @@
     "discount": 0,
     "onsale": false,
     "detail": "Warmth whenever and wherever you need it. Our ultra light down coat.",
+    "details":"Water-repellent coating keeps out light rain. Pocketable design can be stored in the carrying pouch. Newly updated with a more compact, unlined design. Versatile matte finish. Seam is aligned with stitches behind the waist to maintain a streamlined silhouette.",
     "materials":"Shell: 100% Nylon/ Filling: Down (Minimum 90% Down) Lining: 100% Nylon"
 
   },
@@ -61,7 +66,9 @@
     "discount": 0,
     "onsale": false,
     "detail": "Breathable BLOCKTECH fabric keeps the elements out.",
+    "details":"Keeps you dry and comfortable anywhere, anytime. Windproof, water-resistant, moisture-wicking, and stretchy. Durable water-repellent coating protects you from rain. Windproof fabric and sealed seams keep out wind and rain. Smooth, soft lining and hidden underarm ventilation for better breathability.",
     "materials":"100% Polyester"
+ 
   },
         
         
@@ -72,6 +79,7 @@
     "discount": 0,
     "onsale": false,
     "detail": "Blocks out wind and rain while wicking sweat to keep you feeling fresh.",
+    "details":"Lightweight so it can be worn even easier. Windproof, water-resistant, and moisture-permeable technology that gives it a fresh and dry feel. Added water-repellent coating that repels light rain. UV protection (UPF40) feature for UV ray protection.",
     "materials":"Body: 100% Nylon/ Mesh: 100% Polyester"
   },
   
@@ -82,6 +90,7 @@
     "discount": 0,
     "onsale": false,
     "detail": "A jacket made of soft material that you can comfortably throw on.",
+    "details":"We also recommend it to protect you from the sun when outside. UV protection (UPF40) feature for UV ray protection.",
     "materials":"77% Polyester, 18% Lyocell, 5% Spandex"
 
   },
@@ -93,6 +102,7 @@
     "discount": 0,
     "onsale": false,
     "detail": "Blocks out wind and rain but allows for breathability. Keeps you dry and comfortable anywhere, anytime.",
+    "details":"Windproof, water-resistant, moisture-wicking, and stretchy. Durable water-repellent coating protects you from rain. Windproof fabric and sealed seams keep out wind and rain. Smooth, soft lining and hidden underarm ventilation for better breathability. More casual design with one-touch adjustable stopper on the inside.",
     "materials":"100% Polyester"
   },
         
@@ -103,6 +113,7 @@
     "discount": 0,
     "onsale": false,
     "detail": "Impressive stretch that gives you both comfort and a beautiful silhouette.",
+    "details":"DRY technology to keep them feeling fresh when worn. Made with ultra-stretch material that is incredibly stretchy and incredibly easy to move around in. Added DRY technology to make them easier to dry after sweating or washing. Excellent stretch, so they make your legs look flattering.",
     "materials":"100% Cotton"
   },
   
@@ -113,6 +124,7 @@
     "discount": 0,
     "onsale": false,
     "detail": "They look and feel fresh. The waist belt is removable so you can enjoy different styles.",
+    "details":"Linen rayon material that feels cool and has an elegant drape. Easy waist makes them very comfortable. Easy to pair with any kind of item. Paper bag design for the waist, so they look great with a shirt tucked in.",
     "materials":"55% Linen, 45% Rayon"
 
   },
@@ -124,6 +136,7 @@
     "discount": 0,
     "onsale": false,
     "detail": "Presenting a new cut for the new season: High-waisted, tapered wide-leg jeans for a flattering, fashion-forward look.",
+    "details": "From a collection of progressive essentials created in our Paris atelier by Artistic Director Christophe Lemaire and a team of international designers.",
     "materials":"100% Cotton"
   }
     ]
